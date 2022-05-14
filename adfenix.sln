@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampaignQueueMonitor", "CampaignQueueMonitor\CampaignQueueMonitor.csproj", "{39A1A23C-B7FB-498F-A0BB-68BDFAA2DD4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampaignQueueMonitorTest", "CampaignQueueMonitorTest\CampaignQueueMonitorTest.csproj", "{0F9DE6CB-59AA-4AD6-89EE-0AC4F505CC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A1A23C-B7FB-498F-A0BB-68BDFAA2DD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A1A23C-B7FB-498F-A0BB-68BDFAA2DD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A1A23C-B7FB-498F-A0BB-68BDFAA2DD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A1A23C-B7FB-498F-A0BB-68BDFAA2DD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9DE6CB-59AA-4AD6-89EE-0AC4F505CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9DE6CB-59AA-4AD6-89EE-0AC4F505CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9DE6CB-59AA-4AD6-89EE-0AC4F505CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9DE6CB-59AA-4AD6-89EE-0AC4F505CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
